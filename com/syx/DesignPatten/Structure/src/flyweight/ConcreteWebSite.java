@@ -1,6 +1,7 @@
 package flyweight;
 
 //具体网站
+
 public class ConcreteWebSite extends WebSite {
 
 	//共享的部分，内部状态
